@@ -52,3 +52,4 @@ class Who:
 
 Who()
 ```
+<h1>Pavan Guttula</h1><p>🐍 Python | 🤖 Artificial Intelligence Enthusiastic | 🐬 Deep Learning </p><p>🌎 Anytown, SomeWhere</p><p>Interests: 📈 Data science | 🤖 Machine learning | 🎨 Creative coding </p><p>Skills: 🐍 Python |🐘 PostgreSQL | 🍃 MongoDB</p><a href='https://github.com/pavanGuttula130' target='_blank'>Check out my code on GitHub</a>
